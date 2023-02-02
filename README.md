@@ -3,6 +3,7 @@
 
 ## Bank Marketing Campaign
 
+![shutterstock_400246663](https://user-images.githubusercontent.com/114376944/216295653-3b50d967-7f54-4f97-8afe-059abf38cd66.jpg)
 
 # Introduction
 This project is aimed at analyzing a bank's marketing campaign data to determine the factors that influence customers to subscribe to a term deposit. The goal is to build a model that can accurately predict whether a customer will subscribe to a term deposit based on their characteristics and past marketing campaign interactions.
@@ -13,6 +14,9 @@ This project is aimed at analyzing a bank's marketing campaign data to determine
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
 There are 45211 rows and 17 columns in data set
+
+![banking](https://user-images.githubusercontent.com/114376944/216296765-9891126c-d025-4419-9a25-ed15ce8825ca.PNG)
+
 
 #### Columns description
 - age - Age of the customer
